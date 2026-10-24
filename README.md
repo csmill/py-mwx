@@ -1,5 +1,5 @@
 # py-mwx
-Python utility for converting Vaisala MWX sounding data to CSV
+Python utility for converting MWX radiosonde data files to CSV
 
 To convert an MWX file into a CSV file, either run this script directly or import it and use the `mwx_to_csv` function.
 
